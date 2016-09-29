@@ -1,0 +1,9 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+target 'IOSTest' do
+
+pod "MWPhotoBrowser"
+
+use_frameworks!
+
+end
